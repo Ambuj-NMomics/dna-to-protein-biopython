@@ -22,13 +22,9 @@ conda activate bioinfo
 pip install biopython
 
 
-
-
 #Run
 
 python dna_to_protein.py
-
-
 
 #Author
 Ambuj Narayan Maurya
